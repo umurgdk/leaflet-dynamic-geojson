@@ -37,6 +37,7 @@ leafletMap.add(dynamicLayer);
 ```
 
 ### TODO
+* Support for non-amd
 * Use Leaflet.AJAX plugin instead of jQuery
 * Ability to add event handlers
 * Ability to bind popups on markers
